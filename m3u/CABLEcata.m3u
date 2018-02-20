@@ -8,7 +8,7 @@ http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x.php/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/América_Televisión.svg/640px-América_Televisión.svg.png" group-title="PERU", America 
 http://195.181.162.162:80/live/Megaplay/Vacations/9012.ts?token=SBUKWRZfRAISBgAEXAMHWAAGUQVWAV1cUQEFB19XCA9WAltcBAJRClYUHBdKQ0JcVAg6WgUaXwBUU1MbRBZCXEFoC1xHDUQKBQMDARsbEk1cCAARWwlQCFJRVwVeUwAVEUcLXEcNRAoJAwMGGxsSXE0RAEEPWQlmAAcXXgUGEwNdQg5USRUJVm9SVVhYWVQbD0dVEU0aDEoUQFsVJQ9eTFdxDlkXUkZxXlUeFxUVUlBBFwRHBBpfG1VRUgNETxNaXEIMTBdORAISZnUXFRVVQUEAC0AIVwsbXkAVRERPE1BAaBBdFkMUXVFbVUcbDRIJF0lHXgBAOloLDA9SBRdYVl1EQAJHBVYIABQcF1RYXlBBChdsEVEBG15AUwJVWwAbTg==
 #EXTINF:-1 tvg-logo="http://www.panamericana.pe/imagenes/logo_panamericana.png" group-title="PERU", Panamericana
-https://stream-02.nyc.dailymotion.com/22/dm/3/x18w5up/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/47/dm/3/x18w5up/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/898271490789036034/bNKMScfd_400x400.jpg" group-title="PERU",Digital Música 
 http://uvodscp-lh.akamaihd.net/i/ped002rtmp_1@460476/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LOGO_TV_PERU_2012.png" group-title="PERU",Tv Peru
@@ -46,7 +46,6 @@ http://3-120heat.pulsedmedia.com/public-llave1/list/public/estrellas_latam.php/i
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/8f/75/8f75cb82d12475cf85ac69076ceb9b8a.jpg", group-title="MEXICO",MVS RADIO
 http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8?tecnotv.info?iptv.m3u8
 #EXTINF:-1 tvg-shift=0 tvg-name="Az Mundo" tvg-logo="http://iptvmexico.xyz/logos/png/2072.png", group-title="MEXICO",Az Mundo
-http://www.iptvmexico.xyz/2072.m3u8
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/azmundo.php/index.m3u8
 
 
@@ -62,15 +61,15 @@ http://3-120heat.pulsedmedia.com/public-llave1/list/public/aehd.php/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Axn_global.png", group-title="CINE Y SERIES",AXN 
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/axn.php/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Sony_logo.svg/640px-Canal_Sony_logo.svg.png", group-title="CINE Y SERIES",SONY 
-
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/sony.php/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRbFXifQrPaNc_kjZ22zHaJ38NF6ofyxiXM65LGeZJG-z8-3FmcUDg1QIR", group-title="CINE Y SERIES",ID
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ID_HD)/Stream(02)/index.m3u8
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/idhd.php/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/640px-Universal_Channel_Logo_2013.svg.png", group-title="CINE Y SERIES",UNIVERSAL CHANNEL
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(02)/index.m3u8
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/univers.php/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/640px-FOX_wordmark-orange.svg.png", group-title="CINE Y SERIES",FOX 
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_HD)/Stream(02)/index.m3u8
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x.php/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/640px-FX_International_logo.svg.png", group-title="CINE Y SERIES",FX
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FX_HD)/Stream(02)/index.m3u8
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/fx.php/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/640px-TNT_Logo_2016.svg.png", group-title="CINE Y SERIES",TNT
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_HD)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png", group-title="CINE Y SERIES",TNT SERIES
