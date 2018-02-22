@@ -2,13 +2,13 @@
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/898271490789036034/bNKMScfd_400x400.jpg" group-title="PERU", Digital Tv Perú 
 http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/master.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-M3xkc2LwoTY/WIV7eXPwd9I/AAAAAAAAESs/ilO7_RBbDYoOTMwv8SeCSz0kpn7o4rgdQCLcB/s1600/Latina.png" group-title="PERU",Latina 
-http://165.227.47.181/loadbalance/67482146338978848196/chunks.m3u8?pxAuth=ytJZXudLjtl3IagkrejiVnPgMANuVp4z
+http://159.89.19.208/loadbalance/67482146338978848196/playlist.m3u8?pxAuth=5BOEYz7N8wDBTNLcRk1vsuBibhBRWo44
 #EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxsUZeuESED2m6_IZ3eNMad2irV4GaKm-rK3fu44XXEMNfTOyrw8d4BajE" group-title="PERU",Movistar Música
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x.php/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/América_Televisión.svg/640px-América_Televisión.svg.png" group-title="PERU", America pxAuth=
-http://165.227.47.36/loadbalance/82322365838951331971/playlist.m3u8?pxAuth=M1oegmaLD4yyj1t37IaRTWyCrtsgOPAw
+http://165.227.37.240/loadbalance/82322365838951331971/playlist.m3u8?pxAuth=pzUwpMzyZqO7tU0o3Y1qkBOjm1DAfrRj
 #EXTINF:-1 tvg-logo="http://www.panamericana.pe/imagenes/logo_panamericana.png" group-title="PERU", Panamericana
-https://stream-03.nyc.dailymotion.com/47/dm/3/x18w5up/live-3.m3u8
+http://cdnh4.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/898271490789036034/bNKMScfd_400x400.jpg" group-title="PERU",Digital Música 
 http://uvodscp-lh.akamaihd.net/i/ped002rtmp_1@460476/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LOGO_TV_PERU_2012.png" group-title="PERU",Tv Peru
