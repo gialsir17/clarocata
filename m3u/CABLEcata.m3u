@@ -22,8 +22,8 @@ https://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTke_EASU9yQ0rfTxEK-597WaZxjqIEicZXyPWMcot51pZQ8fSoPCVMq2hg" group-title="PERU", ATV +
 http://dqsz3cincv704.cloudfront.net/pe/smil:atv_mas.smil/chunklist_b1056768.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/NEXTV_PERU_LOGOBETA.png" group-title="PERU",NEX TV
-http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8#
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Movistar_Deportes_%28Peru%29_-_2017_logo.png/1280px-Movistar_Deportes_%28Peru%29_-_2017_logo.png" group-title="PERU",Movistar Deportes
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Movistar_Deportes_%28Peru%29_-_2017_logo.png/1280px-Movistar_Deportes_%28Peru%29_-_2017_logo.png" group-title="PERU",Movistar Deportes
 http://b36614-p53-hb6.2.cdn.telefonica.com/_36614/playlist.m3u8?token=1520540345-66d8e14508ec6164ed60c721f305b4965caa8baa
 #EXTINF:-1 tvg-logo="http://latelete.tv/img/golperu.png" group-title="PERU",Gol Peru
 http://b36616-p53-hb6.2.cdn.telefonica.com/_36616/playlist.m3u8?token=1520540345-66d8e14508ec6164ed60c721f305b4965caa8baa
@@ -43,7 +43,8 @@ http://iptvplayer.xyz:8181/streamer/estrellas_latam/Stream(04).m3u8?token=dcf65d
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/8f/75/8f75cb82d12475cf85ac69076ceb9b8a.jpg", group-title="MEXICO",MVS RADIO
 http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8?tecnotv.info?iptv.m3u8
 #EXTINF:-1 tvg-ID="Azteca7.mx" tvg-name="Azteca  7" tvg-logo="http://w-hd.org:8000/res/html/whd/images/logos/canales/tvabierta/3.png" group-title="LATINOS ",Azteca uno
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8?sd=10&rebase=on#EXTINF:-1 tvg-ID="Unicable.mx" tvg-name="Unicable  [HD]" tvg-logo="http://w-hd.org:8000/res/html/whd/images/logos/canales/can_hd/48.png" group-title="LATINOS ",Unicable 
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-ID="Unicable.mx" tvg-name="Unicable  [HD]" tvg-logo="http://w-hd.org:8000/res/html/whd/images/logos/canales/can_hd/48.png" group-title="LATINOS ",Unicable 
 http://iptvplayer.xyz:8181/streamer/unicable/Stream(04).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
 #EXTINF:-1 tvg-ID="13Nacional.mx" tvg-name="El Trece HD" tvg-logo="http://w-hd.org:8000/res/html/whd/images/logos/canales/tvabierta/19.png" group-title="LATINOS FHD",El Trece HD
 http://a.watcha.live/ch7/full.m3u8#EXTINF:-1 tvg-ID="Proyecto40.mx" tvg-name="Proyecto 40" tvg-logo="http://w-hd.org:8000/res/html/whd/images/logos/canales/tvabierta/9.png" group-title="LATINOS FHD",Azteca A+
