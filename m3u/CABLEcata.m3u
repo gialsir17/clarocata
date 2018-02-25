@@ -2,14 +2,10 @@
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/898271490789036034/bNKMScfd_400x400.jpg" group-title="PERU", Digital Tv Perú 
 http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/master.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-M3xkc2LwoTY/WIV7eXPwd9I/AAAAAAAAESs/ilO7_RBbDYoOTMwv8SeCSz0kpn7o4rgdQCLcB/s1600/Latina.png" group-title="PERU",Latina 
-
 http://159.65.120.120/loadbalance/67482146338978848196/chunks.m3u8?pxAuth=G5douvwwUicz8yVNoqWQmaEdma0xjxWN
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/América_Televisión.svg/640px-América_Televisión.svg.png" group-title="PERU", America 
-
 http://159.65.198.235/loadbalance/82322365838951331971/chunks.m3u8?pxAuth=QtN6TJpndsHBaeXCp5EnlPnY6REqMjGw
 #EXTINF:-1 tvg-logo="http://www.panamericana.pe/imagenes/logo_panamericana.png" group-title="PERU", Panamericana
-
 http://stream-03.nyc.dailymotion.com/51/dm/3/x18w5up/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/898271490789036034/bNKMScfd_400x400.jpg" group-title="PERU",Digital Música 
 http://uvodscp-lh.akamaihd.net/i/ped002rtmp_1@460476/master.m3u8
@@ -20,18 +16,16 @@ http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-v
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="PERU", ATV
 http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1155072.m3u8
 #EXTINF:-1 tvg-logo="http://willax.tv/static/images/facebook-logo.jpg" group-title="PERU",Willax
-
 https://secure-playlist.livestream.com/streams/26619010_7987650_lsi83q1qi3gn3lo4bbd_1/media/26619010_7987650_lsi83q1qi3gn3lo4bbd_1@2756000p.m3u8?dw=14400&token=1519686210_703c5285628a54be0f2d18c1c3428dfbb8efa9b7&ts=1519513200
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_07/thumb.ipetvperu.png.f94abbc1ba13779b58cd82e268a00939.png" group-title="PERU",IPE 
 https://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTke_EASU9yQ0rfTxEK-597WaZxjqIEicZXyPWMcot51pZQ8fSoPCVMq2hg" group-title="PERU", ATV +
 http://dqsz3cincv704.cloudfront.net/pe/smil:atv_mas.smil/chunklist_b1056768.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/NEXTV_PERU_LOGOBETA.png" group-title="PERU",NEX TV
-
-http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Movistar_Deportes_%28Peru%29_-_2017_logo.png/1280px-Movistar_Deportes_%28Peru%29_-_2017_logo.png" group-title="PERU",Movistar Deportes
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8#
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Movistar_Deportes_%28Peru%29_-_2017_logo.png/1280px-Movistar_Deportes_%28Peru%29_-_2017_logo.png" group-title="PERU",Movistar Deportes
 http://b36614-p53-hb6.2.cdn.telefonica.com/_36614/playlist.m3u8?token=1520540345-66d8e14508ec6164ed60c721f305b4965caa8baa
 #EXTINF:-1 tvg-logo="http://latelete.tv/img/golperu.png" group-title="PERU",Gol Peru
-
 http://b36616-p53-hb6.2.cdn.telefonica.com/_36616/playlist.m3u8?token=1520540345-66d8e14508ec6164ed60c721f305b4965caa8baa
 
 
@@ -41,18 +35,13 @@ http://b36616-p53-hb6.2.cdn.telefonica.com/_36616/playlist.m3u8?token=1520540345
 
 
 #EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/az-corazon.jpg" group-title="MEXICO",AZ CORAZON
-
 http://iptvplayer.xyz:8181/streamer/azcorazon/Stream(06).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
 #EXTINF:-1 tvg-logo="http://cablecauca.com/wp/wp-content/uploads/2017/01/az-mundo-1.png" group-title="MEXICO",AZ MUNDO
-
 http://iptvplayer.xyz:8181/streamer/azmundo/Stream(06).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
-
 #EXTINF:-1 tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/nuevo_antes_despues_logo_las_estrellas_televisa_detalles.png" group-title="MEXICO",ESTRELLAS
-
 http://iptvplayer.xyz:8181/streamer/estrellas_latam/Stream(04).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/8f/75/8f75cb82d12475cf85ac69076ceb9b8a.jpg", group-title="MEXICO",MVS RADIO
 http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8?tecnotv.info?iptv.m3u8
-
 #EXTINF:-1 tvg-ID="Azteca7.mx" tvg-name="Azteca  7" tvg-logo="http://w-hd.org:8000/res/html/whd/images/logos/canales/tvabierta/3.png" group-title="LATINOS ",Azteca uno
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8?sd=10&rebase=on#EXTINF:-1 tvg-ID="Unicable.mx" tvg-name="Unicable  [HD]" tvg-logo="http://w-hd.org:8000/res/html/whd/images/logos/canales/can_hd/48.png" group-title="LATINOS ",Unicable 
 http://iptvplayer.xyz:8181/streamer/unicable/Stream(04).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
@@ -94,7 +83,6 @@ http://iptvplayer.xyz:8181/streamer/goldp/Stream(06).m3u8?token=dcf65d0a602071fa
 http://iptvplayer.xyz:8181/streamer/golden/Stream(06).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
 #EXTINF:-1 tvg-logo="http://i.televisa.com/2017/04/logo_de_pelicula.jpg"  group-title="CINE Y SERIES",DE PELICULA 
 http://iptvplayer.xyz:8181/streamer/depelicula/Stream(04).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/640px-SpaceLogo.svg.png"  group-title="CINE Y SERIES",SPACE
 http://iptvplayer.xyz:8181/streamer/space/Stream(06).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/640px-AMC_logo_2016.svg.png"  group-title="CINE Y SERIES",AMC
@@ -113,7 +101,6 @@ http://iptvplayer.xyz:8181/streamer/cinecanal/Stream(06).m3u8?token=dcf65d0a6020
 http://iptvplayer.xyz:8181/streamer/fxm/Stream(06).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/704764031819771904/yl4O9YOo.jpg"  group-title="CINE Y SERIES",ISAT
 http://iptvplayer.xyz:8181/streamer/isat/Stream(04).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png"  group-title="CINE Y SERIES",TBS
 http://iptvplayer.xyz:8181/streamer/tbs/Stream(06).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
 #EXTINF:-1 tvg-logo="http://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png"  group-title="CINE Y SERIES",SYFY
@@ -127,9 +114,7 @@ http://iptvplayer.xyz:8181/streamer/tcm/Stream(04).m3u8?token=dcf65d0a602071fa50
 ***********ENTRETENIMIENTO *********
 
 #EXTINF:-1 tvg-logo="http://www.televalltv.net/images/unicable.jpg", group-title="ENTRETENIMIENTO",UNICABLE
-
 http://iptvplayer.xyz:8181/streamer/unicable/Stream(04).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png", group-title="ENTRETENIMIENTO",!E
 http://iptvplayer.xyz:8181/streamer/e_ent/Stream(04).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
 #EXTINF:-1 tvg-ID="ComedyCentral.mx" tvg-name="Comedy Central  HD" tvg-logo="http://w-hd.org:8000/res/html/whd/images/logos/canales/can_hd/32.png" group-title="ENTRETENIMIENTO",Comedy Central  
@@ -148,9 +133,7 @@ http://iptvplayer.xyz:8181/streamer/tbs/Stream(06).m3u8?token=dcf65d0a602071fa50
 
 **********FOX PREMIUM**********
 #EXTINF:-1 tvg-logo="https://pages.foxites.com/about/whatsfox/img/logo_fox1.png"  group-title="FOX PREMIUM",FOX SERIES
-
 http://iptvplayer.xyz:8181/streamer/f0x_series/Stream(06).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
-
 #EXTINF:-1 tvg-logo="https://pages.foxites.com/about/whatsfox/img/logo_foxaction.png"  group-title="FOX PREMIUM",FOX ACTION 
 http://iptvplayer.xyz:8181/streamer/f0x_series/Stream(06).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
 #EXTINF:-1 tvg-logo="https://pages.foxites.com/about/whatsfox/img/logo_foxmovies.png"  group-title="FOX PREMIUM",FOX MOVIES
@@ -159,7 +142,6 @@ http://iptvplayer.xyz:8181/streamer/f0x_movies/Stream(06).m3u8?token=dcf65d0a602
 http://iptvplayer.xyz:8181/streamer/f0x_comedy/Stream(06).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
 #EXTINF:-1 tvg-logo="https://pages.foxites.com/about/whatsfox/img/logo_foxfamily.png"  group-title="FOX PREMIUM",FOX FAMILY
 http://iptvplayer.xyz:8181/streamer/f0x_family/Stream(06).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
-
 #EXTINF:-1 tvg-logo="https://pages.foxites.com/about/whatsfox/img/logo_foxcinema.png"  group-title="FOX PREMIUM",FOX CINEMA 
 http://iptvplayer.xyz:8181/streamer/f0x_cinema/Stream(06).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
 #EXTINF:-1 tvg-logo="https://pages.foxites.com/about/whatsfox/img/logo_foxclassics.png"  group-title="FOX PREMIUM",FOX CLASSICS 
@@ -175,10 +157,8 @@ http://iptvplayer.xyz:8181/streamer/hb0hd/Stream(06).m3u8?token=dcf65d0a602071fa
 http://iptvplayer.xyz:8181/streamer/hb02/Stream(06).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png"  group-title="HBO MAX",HBO FAMILY
 http://iptvplayer.xyz:8181/streamer/hb0fam/Stream(06).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png"  group-title="HBO MAX",HBO PLUS
 http://iptvplayer.xyz:8181/streamer/hb0plus/Stream(06).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/640px-HBO_Signature.svg.png"  group-title="HBO MAX",HBO SIGNATURE
 http://iptvplayer.xyz:8181/streamer/hb0sign/Stream(06).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/640px-Max_Prime_2012_logo.svg.png"  group-title="HBO MAX",MAX PRIME
@@ -203,7 +183,6 @@ http://iptvplayer.xyz:8181/streamer/disc_civil/Stream(04).m3u8?token=dcf65d0a602
 http://iptvplayer.xyz:8181/streamer/disc_science/Stream(04).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
 #EXTINF:-1 tvg-logo="http://puu.sh/reRWX/1a8a31aab2.png" group-title="MUNDO Y CULTURA", DISCOVERY H&H
 http://iptvplayer.xyz:8181/streamer/disc_hh/Stream(06).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
-
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_08/large.animalplanethd.png.f733327e29472ff87fbf9ade1b3e9e76.png", group-title="MUNDO Y CULTURA",ANIMAL PLANET
 http://iptvplayer.xyz:8181/streamer/anim_planet/Stream(06).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/640px-History_Logo.svg.png", group-title="MUNDO Y CULTURA",HISTORY 
@@ -213,7 +192,6 @@ http://iptvplayer.xyz:8181/streamer/h2/Stream(04).m3u8?token=dcf65d0a602071fa50d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png", group-title="MUNDO Y CULTURA",NAT GEO  
 http://iptvplayer.xyz:8181/streamer/natgeo/Stream(06).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png", group-title="MUNDO Y CULTURA",NAT GEO WILD
 http://iptvplayer.xyz:8181/streamer/natgeo_wild/Stream(06).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
-
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5649_2_31784.png", group-title="MUNDO Y CULTURA",DISCOVERY TURBO
 http://iptvplayer.xyz:8181/streamer/disc_turbo/Stream(04).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
 #EXTINF:-1 tvg-logo="http://www.tafimedia.com/tafiimage/70.png" group-title="MUNDO Y CULTURA",World Fashion 
@@ -236,15 +214,12 @@ http://iptvplayer.xyz:8181/streamer/d1sney/Stream(06).m3u8?token=dcf65d0a602071f
 http://w-suhd.com:8000/live/wxyz/6789/20919.ts
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/nick-2.png", group-title="NIÑOS",NICK 2
 http://iptvplayer.xyz:8181/streamer/nick2/Stream(06).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/640px-2016_Discovery_Kids_logo.svg.png", group-title="NIÑOS",DISCOVERY KIDS
 http://iptvplayer.xyz:8181/streamer/disc_kids/Stream(06).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
 #EXTINF:-1 tvg-logo="http://www.cartoonnetwork.com/static/images/global/ogLogo.png", group-title="NIÑOS",CARTOON NETWORK 
 http://iptvplayer.xyz:8181/streamer/cart_net/Stream(06).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nickelodeon_logo_new.svg/1280px-Nickelodeon_logo_new.svg.png", group-title="NIÑOS",NICKELODEON 
 http://iptvplayer.xyz:8181/streamer/nick/Stream(06).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/640px-Boomerang_2014_logo.svg.png", group-title="NIÑOS",BOOMERANG 
 http://iptvplayer.xyz:8181/streamer/boomerang/Stream(04).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/640px-Disney_XD_-_2015.svg.png", group-title="NIÑOS", DISNEY XD
@@ -303,7 +278,6 @@ http://iptvplayer.xyz:8181/streamer/mtvhd/Stream(06).m3u8?token=dcf65d0a602071fa
 http://iptvplayer.xyz:8181/streamer/mtvl1ve/Stream(06).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
 #EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTI8Voye3DhUZ5DPSJAgKpegrsEVc_ASbIcNWaXkQmfQdhyx4tug", group-title="MUSICA",MTV HITS
 http://iptvplayer.xyz:8181/streamer/mtvhits/Stream(04).m3u8?token=dcf65d0a602071fa50d4e6bd44f47973e0afa23652eaeaaf
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/MTV_Base_2017_logo.svg/1200px-MTV_Base_2017_logo.svg.png", group-title="MUSICA",MTV BASE
 http://163.172.19.242:80/live/555555555/555555555/9447.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_9461_6_3686.png", group-title="MUSICA",MTV XMAS
